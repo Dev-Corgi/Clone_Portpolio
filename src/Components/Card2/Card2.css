@@ -1,0 +1,117 @@
+.card2{
+    z-index: 2;
+}
+
+.card2_feature{
+    position: absolute;
+    width: 65.26%;
+    height: 14.86%;
+}
+
+.card2_feature_indexnumber{
+position: absolute;
+width: 6px;
+left: 21px;
+top: 53px;
+bottom: 78px;
+
+font-family: 'Lausanne';
+font-style: normal;
+font-weight: 400;
+font-size: 14.2278px;
+line-height: 17px;
+
+color: #000000;
+}
+
+.card2_feature_topline{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 100%;
+    
+    border: 1.2px solid #000000;
+}
+
+.card2_feature_text1{
+    position: absolute;
+    width: 252px;
+    left: 70px;
+    top: 40px;
+    bottom: 82px;
+    
+    font-family: 'Lausanne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21.3417px;
+    line-height: 26px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+
+.card2_feature_text2{
+    position: absolute;
+    width: 593px;
+    left: 70px;
+    top: 61px;
+    bottom: 23px;
+    
+    font-family: 'Lausanne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 53.3542px;
+    line-height: 64px;
+    letter-spacing: -0.02em;
+    
+    color: #000000;
+    
+}
+
+.card2_feature_text3{
+    position: absolute;
+    width: 503px;
+    left: 70px;
+    top: 129px;
+    bottom: 0px;
+    
+    font-family: 'Lausanne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16.0063px;
+    line-height: 19px;
+    
+    color: #000000;
+}
+
+.card2_feature_numberframe{
+    box-sizing: border-box;
+position: absolute;
+width: 48px;
+height: 35px;
+left: 0px;
+top: 44px;
+
+border: 1px solid #000000;
+border-radius: 17.5px;
+}
+
+.card2_bottomtext{
+    position: absolute;
+left: 6.63%;
+right: 14.8%;
+top: 83.36%;
+bottom: -4.95%;
+
+font-family: 'Lausanne';
+font-style: normal;
+font-weight: 400;
+font-size: 177.847px;
+line-height: 215px;
+/* identical to box height */
+
+
+color: #000000;
+}

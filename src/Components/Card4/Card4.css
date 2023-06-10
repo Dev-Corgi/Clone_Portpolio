@@ -1,0 +1,103 @@
+.card4_content-layout{
+    position: absolute;
+    left: 22.24%;
+    right: -58.54%;
+    top: 26.78%;
+    bottom: -0.1%;
+}
+
+.card4_content-frame{
+    box-sizing: border-box;
+
+    position: absolute;
+    left: 0%;
+    right: 83.61%;
+    top: 0%;
+    bottom: 0%;
+    
+    border: 0.7px solid #FFFFFF;
+}
+
+.card4_content_roleframe{
+    box-sizing: border-box;
+
+    position: absolute;
+    left: 27.87%;
+    right: 27.64%;
+    top: 3.6%;
+    bottom: 90.92%;
+    
+    border: 1px solid #FFFFFF;
+    border-radius: 100px;
+}
+
+.card4_content_role{
+    position: absolute;
+    left: 40.22%;
+    right: 39.78%;
+    top: 4.29%;
+    bottom: 91.88%;
+    
+    font-family: 'Lausanne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 28px;
+    /* identical to box height, or 200% */
+    
+    text-align: center;
+    letter-spacing: 0.005em;
+    
+    color: #FFFFFF;
+}
+
+.card4_content_picture{
+    position: absolute;
+    left: 20.22%;
+    right: 20%;
+    top: 23.47%;
+    bottom: 40.1%;
+    
+}
+
+.card4_content_title{
+    position: absolute;
+    left: 20%;
+    right: 19.78%;
+    top: 74.97%;
+    bottom: 21.19%;
+    
+    font-family: 'Lausanne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 28px;
+    /* identical to box height, or 80% */
+    
+    text-align: center;
+    letter-spacing: 0.005em;
+    
+    color: #FFFFFF;
+}
+
+.card4_content_discover{
+    position: absolute;
+    left: 40%;
+    right: 39.78%;
+    top: 93.05%;
+    bottom: 3.11%;
+    
+    font-family: 'Lausanne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 28px;
+    /* identical to box height, or 200% */
+    
+    text-align: center;
+    letter-spacing: 0.005em;
+    
+    color: #FFFFFF;
+}
+
+

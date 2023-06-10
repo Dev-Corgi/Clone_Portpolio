@@ -1,0 +1,58 @@
+.card3_title{
+    position: absolute;
+    left: 37.45%;
+    right: -39.16%;
+    top: 14.76%;
+    bottom: 56.82%;
+    font-family: 'Lausanne';
+    font-size: 177.847px;
+    line-height: 140px;
+    letter-spacing: -0.05em;
+    color: #000000;
+}
+
+.card3_subtitle{
+    position: absolute;
+    left: 48.45%;
+    right: 17.42%;
+    top: 48.01%;
+    bottom: 40.75%;
+    
+    font-family: 'Lausanne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 28px;
+    /* or 100% */
+    
+    letter-spacing: 0.005em;
+    
+    color: #000000;
+}
+
+.card3_description{
+    position: absolute;
+    left: 48.9%;
+    right: 22.39%;
+    top: 62.57%;
+    bottom: 16.14%;
+    
+    font-family: 'Lausanne';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.7847px;
+    line-height: 26px;
+    /* or 149% */
+    
+    
+    color: #000000;
+}
+
+.card3_picture{
+position: relative;
+left: 5.87%;
+right: 62.1%;
+top: 10.65%;
+bottom: -0.53%;
+background: url(../../Assets/e3760f3e-d27c-44e5-9cdf-001abbf536dc_silvia-sguotti.png); 
+}
